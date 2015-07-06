@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeJams.Libray", "CodeJams.Libray\CodeJams.Libray.csproj", "{38CF766D-C5B2-47EE-BDE4-6996561672A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codejams.Algospot.GRID", "Codejams.Algospot.GRID\Codejams.Algospot.GRID.csproj", "{768BA117-7CB8-4D18-A68A-6EC98EA15A4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codejams.Algospot.NUMB3RS", "Codejams.Algospot.NUMB3RS\Codejams.Algospot.NUMB3RS.csproj", "{A2191B71-0DC2-4707-B20F-FED7FA1B342E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codejams.Google.2015.RoundA.MushroomMonster", "Codejams.Google.2015.RoundA.MushroomMonster\Codejams.Google.2015.RoundA.MushroomMonster.csproj", "{577544A7-0EA8-4699-97FA-51A2F66F9FDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codejams.Google.2015.RoundA.Haircut", "Codejams.Google.2015.RoundA.Haircut\Codejams.Google.2015.RoundA.Haircut.csproj", "{7D97AC9F-45CF-4B7D-BC07-224AB23C4BAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38CF766D-C5B2-47EE-BDE4-6996561672A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38CF766D-C5B2-47EE-BDE4-6996561672A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38CF766D-C5B2-47EE-BDE4-6996561672A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38CF766D-C5B2-47EE-BDE4-6996561672A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768BA117-7CB8-4D18-A68A-6EC98EA15A4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768BA117-7CB8-4D18-A68A-6EC98EA15A4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768BA117-7CB8-4D18-A68A-6EC98EA15A4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768BA117-7CB8-4D18-A68A-6EC98EA15A4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2191B71-0DC2-4707-B20F-FED7FA1B342E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2191B71-0DC2-4707-B20F-FED7FA1B342E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2191B71-0DC2-4707-B20F-FED7FA1B342E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2191B71-0DC2-4707-B20F-FED7FA1B342E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{577544A7-0EA8-4699-97FA-51A2F66F9FDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{577544A7-0EA8-4699-97FA-51A2F66F9FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{577544A7-0EA8-4699-97FA-51A2F66F9FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{577544A7-0EA8-4699-97FA-51A2F66F9FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D97AC9F-45CF-4B7D-BC07-224AB23C4BAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D97AC9F-45CF-4B7D-BC07-224AB23C4BAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D97AC9F-45CF-4B7D-BC07-224AB23C4BAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D97AC9F-45CF-4B7D-BC07-224AB23C4BAC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
